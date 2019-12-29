@@ -1,0 +1,5 @@
+A logic.py lefuttatásával bővíthető a számsorozat.
+A program összeveti az utolsó előtti számsor értékeit az utolsó sor számával, illetve az újonnan legenerált számokkal.
+Az utolsó sorba mindig 50-50% eséllyel 1 vagy 2 kerül be. Ez az 1 vagy 2 lecserélhető.
+Ha a szöveg végére entert rakunk akkor a program megkavarodik és egy új sorba rakja a helyes értékeket.
+Matematikailag hibát nem követ el de esztétikailag rosszul néz ki.
